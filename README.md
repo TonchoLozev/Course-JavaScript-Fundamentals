@@ -8,5 +8,6 @@
 2. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/02.Lab-Control-Flow-Logic" > Control Flow Logic </a> 
 3. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/03.Exercise-Syntax-Operators-and-Logic-Flow" > Syntax Operators and Logic Flow - Exercise </a> 
 4. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/04.Lab-Functions-and-Arrow-Functions" > Functions and Arrow Functions </a>
-
+5. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/05.Exercise-Functions-and-Arrow-Functions" > Functions and Arrow Functions - Exercise </a>
+6. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/06.Lab-Arrays-and-Matrices" > Arrays and Matrices </a>
 

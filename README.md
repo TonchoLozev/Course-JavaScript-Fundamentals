@@ -10,4 +10,7 @@
 4. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/04.Lab-Functions-and-Arrow-Functions" > Functions and Arrow Functions </a>
 5. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/05.Exercise-Functions-and-Arrow-Functions" > Functions and Arrow Functions - Exercise </a>
 6. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/06.Lab-Arrays-and-Matrices" > Arrays and Matrices </a>
-
+7. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/07.Exercise-Arrays-and-Matrices" > Arrays and Matrices - Exercise </a> 
+8. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/08.Lab-Strings-and-REGEX" > Strings and REGEX </a>
+9. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/09.Exercise-Strings-and-REGEX" > Strings and REGEX - Exercise </a>
+10. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/10.Lab-Objects-and-Assoc-Arrays" > Objects and Assoc Arrays </a>

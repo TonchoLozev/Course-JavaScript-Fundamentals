@@ -20,4 +20,4 @@
 14. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-16-October-2016" > PRACTICAL EXAM - 16-October-2016  </a>
 15. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-18-June-2017" > PRACTICAL EXAM - 18-June-2017  </a>
 16. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Retake-Exam-3-Sept-2017" > PRACTICAL EXAM - 3-Sept-2017  </a>
-17. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/Game%20Workshop/g_canvas" > Game Workshop with Canvas  </a>
+17. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/Game%20Workshop/g_canvas" > Game Workshop with Canvas  </a>

@@ -3,6 +3,11 @@
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
 
 ---
+The “**JavaScript Fundamentals**” course builds basic coding skills with the language **Javascript**course.
+The course covers creating of programming logic, data types, operators, expression, conditional statements, loops and functions. 
+Working with arrays, string and RegExp, using objects, associative arrays and sets.
+The course is based on latest standarts and JS technologies(using **ES2017**).
+
 ## <b> JavaScript Fundamentals</b> Exercises and Exams. 
 1. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/01.Lab-Javascript%20Syntax" > Javascript Syntax </a> 
 2. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/02.Lab-Control-Flow-Logic" > Control Flow Logic </a> 

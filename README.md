@@ -14,3 +14,10 @@
 8. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/08.Lab-Strings-and-REGEX" > Strings and REGEX </a>
 9. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/09.Exercise-Strings-and-REGEX" > Strings and REGEX - Exercise </a>
 10. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/10.Lab-Objects-and-Assoc-Arrays" > Objects and Assoc Arrays </a>
+11. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/11.Exercise-Objects-and-Assoc-Arrays" > Objects and Assoc Arrays - Exercise </a>
+12. <a href="https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-11-Feb-2018" > PRACTICAL EXAM - 11-Feb-2018  </a>
+13. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-16-December-2016" > PRACTICAL EXAM - 16-December-2016  </a>
+14. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-16-October-2016" > PRACTICAL EXAM - 16-October-2016  </a>
+15. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Exam-18-June-2017" > PRACTICAL EXAM - 18-June-2017  </a>
+16. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/JS-Fundamentals-Retake-Exam-3-Sept-2017" > PRACTICAL EXAM - 3-Sept-2017  </a>
+17. <a https://github.com/TonchoLozev/Course-JavaScript-Fundamentals/tree/master/Game%20Workshop/g_canvas" > Game Workshop with Canvas  </a>
